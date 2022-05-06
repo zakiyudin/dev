@@ -1,0 +1,5 @@
+{
+    "name" : "express-restapi",
+    "version" : "1.0",
+    "description" : "A simple rest api using express"
+}
